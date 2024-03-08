@@ -26,6 +26,10 @@ If you are interested in joining Persist Lab, please check our <a href="https://
 
 <div style="height: 450px; overflow: auto;">
 
+<font color="brown"><i>8 March, 2024</i></font> <br/>
+<font> We have posted two new pre-prints on arXiv! (1) <a href="https://arxiv.org/abs/2403.03304" style="text-decoration: none">Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data</a> (2) <a href="https://arxiv.org/abs/2403.03336" style="text-decoration: none">Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse</a>. Check them out! 
+</font> <br/>
+
 <font color="brown"><i>31 January, 2024</i></font> <br/>
 <font> Our workshop, titled <b> "Reliable Evaluation of LLMs for Factual Information (REAL-Info)"</b>, has been accepted at <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>. We’ll share the website soon. Please consider submitting your relevant work to this workshop!
 </font> <br/>
