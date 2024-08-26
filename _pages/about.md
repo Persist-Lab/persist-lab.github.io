@@ -25,6 +25,25 @@ Our mission is the seamless integration of intelligence into our daily lives, en
 
 <div style="height: 450px; overflow: auto;">
 
+  <font color="brown"><i>25 July, 2024</i></font> <br/>
+<font> Dartmouth SYNERGY team received <a href="https://geiselmed.dartmouth.edu/news/2024/28m-federal-grant-to-fund-medical-innovations-from-dartmouth-health-research/">a $27.7M funding through NIH’s Clinical and Translational Science Award (CTSA)</a>! I am honored to be a co-PI in this project. 
+</font> <br/>
+
+<font color="brown"><i>10 June, 2024</i></font> <br/>
+<font> We successfully wrapped the <a href="https://sites.google.com/view/real-info-2024/overview">REAL-Info workshop</a> at ICWSM, 24! Thanks to all our participants, my wonderful co-organizers, and students!
+</font> <br/>
+  
+<font color="brown"><i>1 June, 2024</i></font> <br/>
+<font> I'm excited to announce that we received the <a href="https://www.dartmouth-hitchcock.org/hitchcock-foundation/pilot-research-grants">Hitchcock Foundation Pilot Research Grant</a>
+ ($50K, role: PI). In collaboration with DHMC providers, our team will develop human-centric NLP solutions to triage patient portal messages.
+</font> <br/>
+
+<!--
+<font color="brown"><i>10 June, 2024</i></font> <br/>
+<font> Our project on triaging patient portal messages made it to the final round of the <a href="https://www.c4tbh.org/accelerator/">DIADH Accelerator</a>
+</font> <br/>
+-->
+
 <font color="brown"><i>8 March, 2024</i></font> <br/>
 <font> We have posted two new pre-prints on arXiv! (1) <a href="https://arxiv.org/abs/2403.03304" style="text-decoration: none">Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data</a> (2) <a href="https://arxiv.org/abs/2403.03336" style="text-decoration: none">Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse</a>. Check them out! 
 </font> <br/>
