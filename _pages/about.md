@@ -31,8 +31,11 @@ If you are interested in joining Persist Lab, please check our <a href="https://
 </font> <br/>
 
 <font color="brown"><i>31 January, 2024</i></font> <br/>
-<font> Our workshop, titled <b> "Reliable Evaluation of LLMs for Factual Information (REAL-Info)"</b>, has been accepted at <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>. We’ll share the website soon. Please consider submitting your relevant work to this workshop!
+<font> Our workshop, titled <a href="https://sites.google.com/view/real-info-2024/overview" style="text-decoration: none">Reliable Evaluation of LLMs for Factual Information (REAL-Info)</a>, has been accepted at <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>.  Please consider submitting your relevant work to this workshop!
 </font> <br/>
+
+
+
 
 <font color="brown"><i>17 January, 2024</i></font> <br/>
 <font> One paper on Multimodal Learning accepted at <a href="https://sites.google.com/view/eacl2024srw" style="text-decoration: none">EACL-2024 SRW</a>. Congratulations to Eftekhar, Omar, and other co-authors. 
