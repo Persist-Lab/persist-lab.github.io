@@ -35,8 +35,8 @@ Our mission is the seamless integration of intelligence into our daily lives, en
 </font> <br/>
   
 <font color="brown"><i>1 June, 2024</i></font> <br/>
-<font> I'm excited to announce that we received the <a href="https://www.dartmouth-hitchcock.org/hitchcock-foundation/pilot-research-grants">Hitchcock Foundation Pilot Research Grant</a>
- ($50K, role: PI). In collaboration with DHMC providers, our team will develop human-centric NLP solutions to triage patient portal messages.
+<font> Excited to receive the <a href="https://www.dartmouth-hitchcock.org/hitchcock-foundation/pilot-research-grants">Hitchcock Foundation Pilot Research Grant</a>
+ ($50K, role: PI). In collaboration with DHMC providers, we will develop human-centric NLP solutions to triage patient portal messages.
 </font> <br/>
 
 <!--
