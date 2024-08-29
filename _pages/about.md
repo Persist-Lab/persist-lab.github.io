@@ -15,7 +15,7 @@ redirect_from:
  -->
  
 <p align="justify">
-Welcome to <b>Persist</b> (<b>Per</b>va<b>s</b>ive <b>I</b>ntelligent Sy<b>st</b>ems) Lab, at Dartmouth, CS! <br/>
+Welcome to <b>Persist</b> (<b>Per</b>va<b>s</b>ive <b>I</b>ntelligent Sy<b>st</b>ems) Lab, at Dartmouth, CS! <br/><br/>
   
 <b>Overview of Research:</b> AI holds great promise for improving human communication and interaction. However, data-driven solutions often overlook key human-centric challenges, such as ambiguous and fragmented information and implicit contexts. Our work bridges <b>natural language processing</b> (NLP) and <b>human-AI interaction</b> with a focus on computational healthcare. We create innovative solutions to address <b>communication gaps in health-related interactions that impact treatment adherence and outcomes</b>. Our research includes analyzing data from Electronic Health Records (EHR), patient portals, online health communities, social media, and sensors, tackling issues at individual and community levels. <br/>
 
