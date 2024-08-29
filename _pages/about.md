@@ -16,10 +16,10 @@ redirect_from:
 Welcome to <b>Persist</b> (<b>Per</b>va<b>s</b>ive <b>I</b>ntelligent Sy<b>st</b>ems) Lab! We are a research group in the <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none">Department of Computer Science</a> at Dartmouth College. 
   
 Our mission is the seamless integration of intelligence into our daily lives, enabling us to better decipher the intricacies of the virtual and physical worlds surrounding us. We are dedicated to crafting innovative solutions at the intersection of <b>human-AI interaction</b>, <b>natural language processing</b>, and <b>machine learning</b>. Our goal is to decode vast volumes of complex data, ranging from Electronic Health Records (EHR) to social media posts and sensor data, to enhance decision-making processes.<be>
-
+</p> 
 <!--If you are interested in joining Persist Lab, please check our <a href="https://persist-lab.github.io/pages/recruitment" style="text-decoration: none">Openings page</a>.-->
 
-</p> 
+
 
 ## <font> News and Announcements </font>
 
