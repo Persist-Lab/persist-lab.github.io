@@ -26,7 +26,7 @@ Our mission is the seamless integration of intelligence into our daily lives, en
 <div style="height: 450px; overflow: auto;">
 
   <font color="brown"><i>25 July, 2024</i></font> <br/>
-<font> Dartmouth SYNERGY team received <a href="https://geiselmed.dartmouth.edu/news/2024/28m-federal-grant-to-fund-medical-innovations-from-dartmouth-health-research/">a $27.7M funding through NIH’s Clinical and Translational Science Award (CTSA)</a>. As a co-PI, I will lead the development of an NLP pipeline to analyze pre-visit questionnaire responses and clinical notes, aiming to assess goal-aligned care and population-level needs.
+<font> Dartmouth SYNERGY team received <a href="https://geiselmed.dartmouth.edu/news/2024/28m-federal-grant-to-fund-medical-innovations-from-dartmouth-health-research/">a $27.7M funding through NIH’s Clinical and Translational Science Award (CTSA)</a>. As a co-PI, I will lead the development of an NLP pipeline to analyze pre-visit questionnaire responses and clinical notes, aiming to assess goal-aligned care.
 </font> <br/>
 
 <font color="brown"><i>10 June, 2024</i></font> <br/>
