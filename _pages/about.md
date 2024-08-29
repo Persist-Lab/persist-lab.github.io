@@ -39,8 +39,9 @@ Our mission is the seamless integration of intelligence into our daily lives, en
 </font> <br/>
 
 <font color="brown"><i>16 May, 2024</i></font> <br/>
-<font> Congratulations to Omar et al. for the ACL'2024 paper <a href="https://aclanthology.org/2024.acl-long.454/" style="text-decoration: none"> Deciphering Hate: Identifying Hateful Memes and Their Targets</a>!
+<font> Congratulations to Omar et al. for the <a href="https://2024.aclweb.org/" style="text-decoration: none"> ACL 2024</a> paper: <a href="https://aclanthology.org/2024.acl-long.454/" style="text-decoration: none"> Deciphering Hate: Identifying Hateful Memes and Their Targets</a>!
 </font> <br/>
+
 
 
 <font color="brown"><i>21 April, 2024</i></font> <br/>
