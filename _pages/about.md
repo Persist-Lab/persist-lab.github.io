@@ -28,14 +28,14 @@ Our mission is the seamless integration of intelligence into our daily lives, en
   <font color="brown"><i>25 July, 2024</i></font> <br/>
 <font> Dartmouth SYNERGY team received <a href="https://geiselmed.dartmouth.edu/news/2024/28m-federal-grant-to-fund-medical-innovations-from-dartmouth-health-research/">a $27.7M funding through NIH’s Clinical and Translational Science Award (CTSA)</a>. As a co-PI, I will lead the development of an NLP pipeline to analyze pre-visit questionnaire responses and clinical notes, aiming to assess goal-aligned care.
 </font> <br/>
-
-<font color="brown"><i>10 June, 2024</i></font> <br/>
-<font> We successfully wrapped the <a href="https://sites.google.com/view/real-info-2024/overview">REAL-Info workshop</a> at <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>! Thanks to my wonderful co-organizers, students, and all our participants!
-</font> <br/>
   
-<font color="brown"><i>1 June, 2024</i></font> <br/>
+<font color="brown"><i>10 June, 2024</i></font> <br/>
 <font> Excited to receive the <a href="https://www.dartmouth-hitchcock.org/hitchcock-foundation/pilot-research-grants">Hitchcock Foundation Pilot Research Grant</a>
  ($50K, role: PI). In collaboration with DHMC providers, we will develop human-centric NLP solutions to triage patient portal messages. We also made it to the final round of the <a href="https://www.c4tbh.org/accelerator/">DIADH Accelerator</a>.
+</font> <br/>
+
+<font color="brown"><i>4 June, 2024</i></font> <br/>
+<font> We successfully wrapped the <a href="https://sites.google.com/view/real-info-2024/overview" style="text-decoration: none">Reliable Evaluation of LLMs for Factual Information (REAL-Info)</a>, at <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>! Thanks to my wonderful co-organizers, students, and all our participants! Special thanks to Dr. Munmun De Choudhury for her amazing keynote!
 </font> <br/>
 
 <font color="brown"><i>8 March, 2024</i></font> <br/>
