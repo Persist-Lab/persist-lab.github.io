@@ -38,6 +38,11 @@ Our mission is the seamless integration of intelligence into our daily lives, en
 <font> We successfully wrapped the <a href="https://sites.google.com/view/real-info-2024/overview" style="text-decoration: none">Reliable Evaluation of LLMs for Factual Information (REAL-Info)</a>, at <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>! Thanks to my wonderful co-organizers, students, and all our participants! Special thanks to Dr. Munmun De Choudhury for her amazing keynote!
 </font> <br/>
 
+<font color="brown"><i>16 May, 2024</i></font> <br/>
+<font> Congratulations to Omar et al. for the ACL'2024 paper <a href="https://aclanthology.org/2024.acl-long.454/" style="text-decoration: none"> Deciphering Hate: Identifying Hateful Memes and Their Targets</a>!
+</font> <br/>
+
+
 <font color="brown"><i>21 April, 2024</i></font> <br/>
 <font> Check out our paper  <a href="https://workshop-proceedings.icwsm.org/pdf/2024_33.pdf" style="text-decoration: none">Do LLMs Find Human Answers To Fact-Driven Questions Perplexing? A Case Study on Reddit</a>, at <a href="https://sites.google.com/view/real-info-2024/overview" style="text-decoration: none"> Reliable Evaluation of LLMs for Factual Information (REAL-Info)</a> workshop, co-located with <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>.
 </font> <br/>
