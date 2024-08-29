@@ -11,9 +11,11 @@ redirect_from:
 <!-- 
 <font color="red" size ="4">This website is under construction. Visit next week please.</font>
  -->
+ <!--We are a research group in the <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none">Department of Computer Science</a> at Dartmouth College. 
+ -->
  
 <p align="justify">
-Welcome to <b>Persist</b> (<b>Per</b>va<b>s</b>ive <b>I</b>ntelligent Sy<b>st</b>ems) Lab! We are a research group in the <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none">Department of Computer Science</a> at Dartmouth College. 
+Welcome to <b>Persist</b> (<b>Per</b>va<b>s</b>ive <b>I</b>ntelligent Sy<b>st</b>ems) Lab, at <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none">Dartmouth, CS</a>! 
   
 AI holds great promise for improving human communication and interaction. However, data-driven solutions often overlook key human-centric challenges, such as interpreting ambiguous information or understanding implicit and scattered contexts. Our work bridges <b>natural language processing</b> (NLP) and <b>human-AI interaction</b> with a focus on computational healthcare. We create innovative solutions to address <b>communication gaps in health-related interactions that impact treatment adherence and outcomes</b>. We aim to improve both patient-provider and patient-patient communications. Our research includes analyzing data from Electronic Health Records (EHR), patient portals, online health communities, social media, and sensors, tackling issues at individual and community levels. 
 
