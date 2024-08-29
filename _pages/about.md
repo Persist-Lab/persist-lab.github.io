@@ -15,7 +15,7 @@ redirect_from:
 <p align="justify">
 Welcome to <b>Persist</b> (<b>Per</b>va<b>s</b>ive <b>I</b>ntelligent Sy<b>st</b>ems) Lab! We are a research group in the <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none">Department of Computer Science</a> at Dartmouth College. 
   
-Our mission is the seamless integration of intelligence into our daily lives, enabling us to better decipher the intricacies of the virtual and physical worlds surrounding us. We are dedicated to crafting innovative solutions at the intersection of <b>human-AI interaction</b>, <b>natural language processing</b>, and <b>machine learning</b>. Our goal is to decode vast volumes of complex data, ranging from Electronic Health Records (EHR) to social media posts and sensor data, to enhance decision-making processes.<be>
+Our mission is the seamless integration of intelligence into our daily lives, enabling us to better decipher the intricacies of the virtual and physical worlds surrounding us. We develop innovative solutions at the intersection of <b>human-AI interaction</b>, <b>natural language processing</b>, and <b>machine learning</b>. Our goal is to decode vast volumes of complex data, ranging from Electronic Health Records (EHR) to social media posts and sensor data, to enhance decision-making processes.
 </p> 
 
 
@@ -37,6 +37,13 @@ Our mission is the seamless integration of intelligence into our daily lives, en
 <font color="brown"><i>4 June, 2024</i></font> <br/>
 <font> We successfully wrapped the <a href="https://sites.google.com/view/real-info-2024/overview" style="text-decoration: none">Reliable Evaluation of LLMs for Factual Information (REAL-Info)</a>, at <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>! Thanks to my wonderful co-organizers, students, and all our participants! Special thanks to Dr. Munmun De Choudhury for her amazing keynote!
 </font> <br/>
+
+<font color="brown"><i>21 April, 2024</i></font> <br/>
+<font> Check out our paper  <a href="https://workshop-proceedings.icwsm.org/pdf/2024_33.pdf" style="text-decoration: none">Do LLMs Find Human Answers To Fact-Driven Questions Perplexing? A Case Study on Reddit</a>, at <a href="https://sites.google.com/view/real-info-2024/overview" style="text-decoration: none"> Reliable Evaluation of LLMs for Factual Information (REAL-Info)</a> workshop, co-located with <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>.
+</font> <br/>
+
+
+
 
 <font color="brown"><i>8 March, 2024</i></font> <br/>
 <font> We have posted two new pre-prints on arXiv! (1) <a href="https://arxiv.org/abs/2403.03304" style="text-decoration: none">Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data</a> (2) <a href="https://arxiv.org/abs/2403.03336" style="text-decoration: none">Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse</a>. Check them out! 
