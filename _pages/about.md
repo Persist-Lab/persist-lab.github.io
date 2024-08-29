@@ -17,8 +17,7 @@ redirect_from:
 <p align="justify">
 Welcome to <b>Persist</b> (<b>Per</b>va<b>s</b>ive <b>I</b>ntelligent Sy<b>st</b>ems) Lab, at Dartmouth, CS! <br/>
   
-<b>Overview of Research:</b> <br/>
-AI holds great promise for improving human communication and interaction. However, data-driven solutions often overlook key human-centric challenges, such as ambiguous and fragmented information and implicit contexts. Our work bridges <b>natural language processing</b> (NLP) and <b>human-AI interaction</b> with a focus on computational healthcare. We create innovative solutions to address <b>communication gaps in health-related interactions that impact treatment adherence and outcomes</b>. Our research includes analyzing data from Electronic Health Records (EHR), patient portals, online health communities, social media, and sensors, tackling issues at individual and community levels. <br/>
+<b>Overview of Research:</b> AI holds great promise for improving human communication and interaction. However, data-driven solutions often overlook key human-centric challenges, such as ambiguous and fragmented information and implicit contexts. Our work bridges <b>natural language processing</b> (NLP) and <b>human-AI interaction</b> with a focus on computational healthcare. We create innovative solutions to address <b>communication gaps in health-related interactions that impact treatment adherence and outcomes</b>. Our research includes analyzing data from Electronic Health Records (EHR), patient portals, online health communities, social media, and sensors, tackling issues at individual and community levels. <br/>
 
 At the <b>individual</b> level, we create innovative solutions to enhance patient-provider communication on patient portals. This includes AI-powered tools that assist patients in crafting clearer messages and triage systems that help providers respond to patient inquiries efficiently. At the <b>community</b> level, we develop solutions to identify and contextualize treatment information needs from online health communities, such as rumors, misinformation, and knowledge gaps, to inform the design of tailored solutions to improve both patient-provider and patient-patient communications. 
 
@@ -32,7 +31,7 @@ At the <b>individual</b> level, we create innovative solutions to enhance patien
 <div style="height: 450px; overflow: auto;">
 
   <font color="brown"><i>25 July, 2024</i></font> <br/>
-<font> Dartmouth SYNERGY team received <a href="https://geiselmed.dartmouth.edu/news/2024/28m-federal-grant-to-fund-medical-innovations-from-dartmouth-health-research/">a $27.7M funding through NIH’s Clinical and Translational Science Award (CTSA)</a>. As a co-PI, I will lead the development of an NLP pipeline to analyze pre-visit questionnaire responses and clinical notes, aiming to assess goal-aligned care.
+<font> Dartmouth SYNERGY team received <a href="https://geiselmed.dartmouth.edu/news/2024/28m-federal-grant-to-fund-medical-innovations-from-dartmouth-health-research/">a $27.7M funding through NIH’s Clinical and Translational Science Award</a>. As a co-PI, I will lead the development of an NLP pipeline to analyze pre-visit questionnaire responses and clinical notes, aiming to assess goal-aligned care.
 </font> <br/>
   
 <font color="brown"><i>10 June, 2024</i></font> <br/>
