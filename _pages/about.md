@@ -35,21 +35,16 @@ Our mission is the seamless integration of intelligence into our daily lives, en
 </font> <br/>
 
 <font color="brown"><i>4 June, 2024</i></font> <br/>
-<font> We successfully wrapped the <a href="https://sites.google.com/view/real-info-2024/overview" style="text-decoration: none">Reliable Evaluation of LLMs for Factual Information (REAL-Info)</a>, at <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>! Thanks to my wonderful co-organizers, students, and all our participants! Special thanks to Dr. Munmun De Choudhury for her amazing keynote!
+<font> We successfully wrapped the <a href="https://sites.google.com/view/real-info-2024/overview" style="text-decoration: none">Reliable Evaluation of LLMs for Factual Information (REAL-Info)</a> workshop at <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>! Thanks to my wonderful co-organizers, students, and all our participants! Special thanks to Dr. Munmun De Choudhury for her amazing keynote!
 </font> <br/>
 
 <font color="brown"><i>16 May, 2024</i></font> <br/>
 <font> Congratulations to Omar et al. for the <a href="https://2024.aclweb.org/" style="text-decoration: none"> ACL 2024</a> paper: <a href="https://aclanthology.org/2024.acl-long.454/" style="text-decoration: none"> Deciphering Hate: Identifying Hateful Memes and Their Targets</a>!
 </font> <br/>
 
-
-
 <font color="brown"><i>21 April, 2024</i></font> <br/>
 <font> Check out our paper  <a href="https://workshop-proceedings.icwsm.org/pdf/2024_33.pdf" style="text-decoration: none">Do LLMs Find Human Answers To Fact-Driven Questions Perplexing? A Case Study on Reddit</a>, at <a href="https://sites.google.com/view/real-info-2024/overview" style="text-decoration: none"> Reliable Evaluation of LLMs for Factual Information (REAL-Info)</a> workshop, co-located with <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>.
 </font> <br/>
-
-
-
 
 <font color="brown"><i>8 March, 2024</i></font> <br/>
 <font> We have posted two new pre-prints on arXiv! (1) <a href="https://arxiv.org/abs/2403.03304" style="text-decoration: none">Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data</a> (2) <a href="https://arxiv.org/abs/2403.03336" style="text-decoration: none">Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse</a>. Check them out! 
