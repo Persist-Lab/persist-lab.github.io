@@ -15,7 +15,10 @@ redirect_from:
 <p align="justify">
 Welcome to <b>Persist</b> (<b>Per</b>va<b>s</b>ive <b>I</b>ntelligent Sy<b>st</b>ems) Lab! We are a research group in the <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none">Department of Computer Science</a> at Dartmouth College. 
   
-Our mission is the seamless integration of intelligence into our daily lives, enabling us to better decipher the intricacies of the virtual and physical worlds surrounding us. We develop innovative solutions at the intersection of <b>human-AI interaction</b>, <b>natural language processing</b>, and <b>machine learning</b>. Our goal is to decode vast volumes of complex data, ranging from Electronic Health Records (EHR) to social media posts and sensor data, to enhance decision-making processes.
+AI holds great promise for improving human communication and interaction. However, data-driven solutions often overlook key human-centric challenges, such as interpreting ambiguous information or understanding implicit and scattered contexts. Our work bridges **natural language processing** (NLP) and **human-AI interaction** with a focus on computational healthcare. We create innovative solutions to address **communication gaps in health-related interactions that impact treatment adherence and outcomes**. We aim to improve both patient-provider and patient-patient communications. Our research includes analyzing data from Electronic Health Records (EHR), patient portals, online health communities, social media, and sensors, tackling issues at individual and community levels. 
+
+At the **individual** level, we create innovative solutions to enhance **patient-provider communication on patient portals**. This includes AI-powered tools that assist patients in crafting clearer messages and triage systems that help providers respond to patient inquiries efficiently. At the community level, we develop solutions to identify and contextualize **treatment information needs** from online health communities, such as rumors, misinformation, and knowledge gaps, to inform the creation of **tailored interventions for medical education and communication**.
+
 </p> 
 
 
