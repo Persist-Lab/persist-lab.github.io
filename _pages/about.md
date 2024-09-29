@@ -29,7 +29,7 @@ At the <b>individual</b> level, we create innovative solutions to enhance patien
 ## <font> News and Announcements </font>
 
 <div style="height: 450px; overflow: auto;">
-  <font color="brown"><i>20 September, 2024</i></font> <br/>
+  <font color="brown"><i>23 September, 2024</i></font> <br/>
 <font> It's official! Our NIH R21 titled "Characterizing Information Needs and Peer Engagement Regarding
 Medication for Opioid Use Disorder on Social Media" has been awarded! This is my first NIH grant as the PI. I am so thankful to my fantastic colleagues at CTBH and Geisel, including co-Is Dr. Sarah Lord, Dr. Jacob Borodobsky, and my mentor Dr. Lisa Marsch. 
 We will build human-centric NLP pipelines to analyze online discourse and improve patient education and communication related to recovery treatment. Thank you, NIH!
