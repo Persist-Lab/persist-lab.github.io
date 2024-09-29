@@ -36,7 +36,7 @@ We will build human-centric NLP pipelines to analyze online discourse and improv
 </font> <br/>
 
   <font color="brown"><i>25 July, 2024</i></font> <br/>
-<font> Dartmouth SYNERGY team received <a href="https://geiselmed.dartmouth.edu/news/2024/28m-federal-grant-to-fund-medical-innovations-from-dartmouth-health-research/">a $27.7M funding through NIH’s Clinical and Translational Science Award</a> (PIs: Steven L. Bernstein, Anna N.A. Tosteson, Keith D. Paulsen). As a co-PI, my students and I will work on the development of an NLP pipeline to analyze pre-visit questionnaire responses and clinical notes, aiming to assess goal-aligned care.
+<font> Dartmouth SYNERGY team received <a href="https://geiselmed.dartmouth.edu/news/2024/28m-federal-grant-to-fund-medical-innovations-from-dartmouth-health-research/">a $27.7M funding through NIH’s Clinical and Translational Science Award</a> (PIs: Drs. Steven L. Bernstein, Anna N.A. Tosteson, Keith D. Paulsen). As a co-PI, my students and I will work on the development of an NLP pipeline to analyze pre-visit questionnaire responses and clinical notes, aiming to assess goal-aligned care.
 </font> <br/>
   
 <font color="brown"><i>10 June, 2024</i></font> <br/>
