@@ -29,9 +29,14 @@ At the <b>individual</b> level, we create innovative solutions to enhance patien
 ## <font> News and Announcements </font>
 
 <div style="height: 450px; overflow: auto;">
+  <font color="brown"><i>20 September, 2024</i></font> <br/>
+<font> It's official! We just received confirmation that our NIH R21 has been awarded! Our project is titled "Characterizing Information Needs and Peer Engagement Regarding
+Medication for Opioid Use Disorder on Social Media." This is my first NIH grant as the PI. I am immensely thankful to my wonderful colleagues at CTBH and Geisel, including my co-Is Dr. Sarah Lord, Dr. Jacob Borodobsky, and Dr. Lisa Marsch. 
+We will build human-centric NLP pipelines to analyze online discourse and improve patient education and communication related to recovery treatment. Thank you, NIH!
+</font> <br/>
 
   <font color="brown"><i>25 July, 2024</i></font> <br/>
-<font> Dartmouth SYNERGY team received <a href="https://geiselmed.dartmouth.edu/news/2024/28m-federal-grant-to-fund-medical-innovations-from-dartmouth-health-research/">a $27.7M funding through NIH’s Clinical and Translational Science Award</a>. As a co-PI, I will lead the development of an NLP pipeline to analyze pre-visit questionnaire responses and clinical notes, aiming to assess goal-aligned care.
+<font> Dartmouth SYNERGY team received <a href="https://geiselmed.dartmouth.edu/news/2024/28m-federal-grant-to-fund-medical-innovations-from-dartmouth-health-research/">a $27.7M funding through NIH’s Clinical and Translational Science Award</a>. As a co-PI, my students and I will work on the development of an NLP pipeline to analyze pre-visit questionnaire responses and clinical notes, aiming to assess goal-aligned care.
 </font> <br/>
   
 <font color="brown"><i>10 June, 2024</i></font> <br/>
