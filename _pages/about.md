@@ -39,6 +39,10 @@ We will build human-centric NLP pipelines to analyze online discourse and improv
 <font> Congratulations to Omar et al. for the <a href="https://2024.emnlp.org/" style="text-decoration: none"> EMNLP 2024</a> paper: <a href="https://omar-sharif03.github.io/DiscourseEE/" style="text-decoration: none"> Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments</a>!
 </font> <br/>
 
+<font color="brown"><i>30 July, 2024</i></font> <br/>
+<font> Congratulations to Madhusudan and others.  Our group is in <a href="https://openai.com/form/researcher-access-program/">Researcher Access Program</a>. We received a $5k API credit and will continue to assess OpenAI models on human-centric NLP tasks. 
+</font> <br/>
+
 <font color="brown"><i>25 July, 2024</i></font> <br/>
 <font> Dartmouth SYNERGY team received <a href="https://geiselmed.dartmouth.edu/news/2024/28m-federal-grant-to-fund-medical-innovations-from-dartmouth-health-research/">a $27.7M funding through NIH’s Clinical and Translational Science Award</a> (PIs: Drs. Steven L. Bernstein, Anna N.A. Tosteson, Keith D. Paulsen). As a co-PI, my students and I will work on the development of an NLP pipeline to analyze pre-visit questionnaire responses and clinical notes, aiming to assess goal-aligned care.
 </font> <br/>
