@@ -35,7 +35,11 @@ Medication for Opioid Use Disorder on Social Media" has been awarded ($451K, rol
 We will build human-centric NLP pipelines to analyze online discourse and improve patient education and communication related to recovery treatment. Thank you, NIH!
 </font> <br/>
 
-  <font color="brown"><i>25 July, 2024</i></font> <br/>
+<font color="brown"><i>20 September, 2024</i></font> <br/>
+<font> Congratulations to Omar et al. for the <a href="https://2024.emnlp.org/" style="text-decoration: none"> EMNLP 2024</a> paper: <a href="https://omar-sharif03.github.io/DiscourseEE/" style="text-decoration: none"> Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments</a>!
+</font> <br/>
+
+<font color="brown"><i>25 July, 2024</i></font> <br/>
 <font> Dartmouth SYNERGY team received <a href="https://geiselmed.dartmouth.edu/news/2024/28m-federal-grant-to-fund-medical-innovations-from-dartmouth-health-research/">a $27.7M funding through NIH’s Clinical and Translational Science Award</a> (PIs: Drs. Steven L. Bernstein, Anna N.A. Tosteson, Keith D. Paulsen). As a co-PI, my students and I will work on the development of an NLP pipeline to analyze pre-visit questionnaire responses and clinical notes, aiming to assess goal-aligned care.
 </font> <br/>
   
