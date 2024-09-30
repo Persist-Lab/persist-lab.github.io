@@ -30,9 +30,8 @@ At the <b>individual</b> level, we create innovative solutions to enhance patien
 
 <div style="height: 450px; overflow: auto;">
   <font color="brown"><i>23 September, 2024</i></font> <br/>
-<font> It's official! Our NIH R21 titled "Characterizing Information Needs and Peer Engagement Regarding
-Medication for Opioid Use Disorder on Social Media" has been awarded ($451K, role: PI)! I am so thankful to my fantastic colleagues at CTBH and Geisel, including co-Is Dr. Sarah Lord, Dr. Jacob Borodobsky, and my mentor Dr. Lisa Marsch. 
-We will build human-centric NLP pipelines to analyze online discourse and improve patient education and communication related to recovery treatment. Thank you, NIH!
+<font> Our NIH R21 has been selected for funding (Total funding: $451K, Role: PI, Title: "Characterizing Information Needs and Peer Engagement Regarding
+Medication for Opioid Use Disorder on Social Media")! I am so thankful to my fantastic co-Is Dr. Sarah Lord, Dr. Jacob Borodobsky, and mentor Dr. Lisa Marsch, for their support. We will build human-centric NLP pipelines to analyze online discourse on recovery treatment and improve patient education and communication. Thank you, NIH!
 </font> <br/>
 
 <font color="brown"><i>20 September, 2024</i></font> <br/>
