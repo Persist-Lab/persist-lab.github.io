@@ -27,6 +27,13 @@ At the <b>individual</b> level, we create innovative solutions to enhance patien
 
 
 ## <font> News and Announcements </font>
+<font color="brown"><i>10 June, 2024</i></font> <br/>
+<font> Excited to receive the <a href="https://research.google/programs-and-events/research-scholar-program/recipients/">Google Research Scholar Award</a> to investigate how to situate LLMs for improved patient-provider communication safely.
+</font> <br/>
+
+<font color="brown"><i>15 May, 2025</i></font> <br/>
+<font> Congratulations to Joey et al. for the <a href="https://2025.aclweb.org/" style="text-decoration: none"> ACL 2025</a> papers: <a href="https://aclanthology.org/2025.acl-long.1226.pdf" style="text-decoration: none"> Follow-up Question Generation For Enhanced Patient-Provider Conversations</a> and <a href="https://aclanthology.org/2025.acl-long.1221.pdf" style="text-decoration: none"> Document-Level Event-Argument Data Augmentation for Challenging Role Types</a>!
+</font> <br/>
 
 <div style="height: 450px; overflow: auto;">
   <font color="brown"><i>23 September, 2024</i></font> <br/>
