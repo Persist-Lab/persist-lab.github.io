@@ -11,7 +11,7 @@ redirect_from:
 <!-- 
 <font color="red" size ="4">This website is under construction. Visit next week please.</font>
  -->
- <!--We are a research group in the <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none">Department of Computer Science</a> at Dartmouth College. 
+ <!--We are a research group in the <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none">Department of Computer Science </a> at Dartmouth College. 
  -->
  
 <p align="justify">
