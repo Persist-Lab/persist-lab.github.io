@@ -8,14 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 
-<font color="red" size ="4">This website is under construction. Visit next week please.</font>
- -->
- <!--We are a research group in the <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none">Department of Computer Science </a> at Dartmouth College. 
- Our work bridges <b>natural language processing</b> (NLP) and <b>human-AI interaction</b> with a focus on computational healthcare. We create innovative solutions to address <b>communication gaps in health-related interactions that impact treatment adherence and outcomes</b>. Our research includes analyzing data from Electronic Health Records (EHR), patient portals, online health communities, social media, and sensors, tackling issues at individual and community levels. <br/><br/>
-
-At the <b>individual</b> level, we create innovative solutions to enhance patient-provider communication on patient portals leveraging multimodal EHR data. This includes AI-powered tools that assist patients in crafting clearer messages and triage systems that help providers respond to patient inquiries efficiently. At the <b>community</b> level, we develop NLP solutions to identify and contextualize treatment information needs from online health communities, such as rumors, misinformation, and knowledge gaps. Our ultimate goal is to inform the design of tailored solutions to enhance both patient-provider and patient-patient communications to improve treatment adherence and outcome. 
- -->
  
 <p align="justify">
 
