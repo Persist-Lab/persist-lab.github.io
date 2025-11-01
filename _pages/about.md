@@ -12,35 +12,42 @@ redirect_from:
 <font color="red" size ="4">This website is under construction. Visit next week please.</font>
  -->
  <!--We are a research group in the <a href="https://web.cs.dartmouth.edu/" style="text-decoration: none">Department of Computer Science </a> at Dartmouth College. 
+ Our work bridges <b>natural language processing</b> (NLP) and <b>human-AI interaction</b> with a focus on computational healthcare. We create innovative solutions to address <b>communication gaps in health-related interactions that impact treatment adherence and outcomes</b>. Our research includes analyzing data from Electronic Health Records (EHR), patient portals, online health communities, social media, and sensors, tackling issues at individual and community levels. <br/><br/>
+
+At the <b>individual</b> level, we create innovative solutions to enhance patient-provider communication on patient portals leveraging multimodal EHR data. This includes AI-powered tools that assist patients in crafting clearer messages and triage systems that help providers respond to patient inquiries efficiently. At the <b>community</b> level, we develop NLP solutions to identify and contextualize treatment information needs from online health communities, such as rumors, misinformation, and knowledge gaps. Our ultimate goal is to inform the design of tailored solutions to enhance both patient-provider and patient-patient communications to improve treatment adherence and outcome. 
  -->
  
 <p align="justify">
-Welcome to <b>Persist</b> (<b>Per</b>va<b>s</b>ive <b>I</b>ntelligent Sy<b>st</b>ems) Lab, at Dartmouth, CS! <br/><br/>
-  
-<b>Overview of Research:</b> AI holds great promise for improving human communication and interaction. However, data-driven solutions often overlook key human-centric challenges, such as ambiguous and fragmented information and implicit contexts. Our work bridges <b>natural language processing</b> (NLP) and <b>human-AI interaction</b> with a focus on computational healthcare. We create innovative solutions to address <b>communication gaps in health-related interactions that impact treatment adherence and outcomes</b>. Our research includes analyzing data from Electronic Health Records (EHR), patient portals, online health communities, social media, and sensors, tackling issues at individual and community levels. <br/><br/>
 
-At the <b>individual</b> level, we create innovative solutions to enhance patient-provider communication on patient portals leveraging multimodal EHR data. This includes AI-powered tools that assist patients in crafting clearer messages and triage systems that help providers respond to patient inquiries efficiently. At the <b>community</b> level, we develop NLP solutions to identify and contextualize treatment information needs from online health communities, such as rumors, misinformation, and knowledge gaps. Our ultimate goal is to inform the design of tailored solutions to enhance both patient-provider and patient-patient communications to improve treatment adherence and outcome. 
+  
+<b>Overview of Research:</b> AI holds great promise for improving human communication and interaction. However, data-driven solutions often overlook key human-centric challenges, such as ambiguous and fragmented information and implicit contexts. At the Pervasive Intelligent Systems Lab (PersistLab), we develop <b>socio-technical AI methods and systems</b> that enhance communication, decision-making, and well-being in high-stakes domains such as healthcare. Our research bridges <b>natural language processing, human–AI interaction, and computational health</b> to <b>develop</b> and <b>validate</b> novel methods, and systems that understand context, uncertainty, and human intent. We study how people communicate about health by collecting and analyzing multimodal data from patient–provider portals, online health communities, and social and behavioral sensing. We create domain informed representation of data by engaging with different stakeholders, including patients, clinicians, patient advocates, community engagement partners, and clinical and public health researchers. Supported by NIH, NSF, Google, CTSA, and institutional fundings, our work advances the science of <b>collaborative intelligence</b>, where humans and AI systems work together to improve <b>health communication, coordination,</b> and <b>outcomes</b>.
 
 </p> 
 
 
 ## <font> News and Announcements </font>
 <div style="height: 450px; overflow: auto;">
-  <font color="brown"><i>10 June, 2025</i></font> <br/>
+
+<font color="brown"><i>15 September, 2025</i></font> <br/>
+<font> Congratulations to Omar for the EMNLP 2025 findngs paper: <a href="https://arxiv.org/pdf/2502.16838" style="text-decoration: none"> REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</a>.
+</font> <br/>
+
+  
+<font color="brown"><i>10 June, 2025</i></font> <br/>
 <font> Excited to receive the <a href="https://research.google/programs-and-events/research-scholar-program/recipients/">Google Research Scholar Award</a> to investigate how to safely situate LLMs for improved patient-provider communication.
 </font> <br/>
 
 <font color="brown"><i>15 May, 2025</i></font> <br/>
-<font> Congratulations to Joey et al. for the two <a href="https://2025.aclweb.org/" style="text-decoration: none"> ACL 2025</a> papers: <a href="https://aclanthology.org/2025.acl-long.1226.pdf" style="text-decoration: none"> Follow-up Question Generation For Enhanced Patient-Provider Conversations</a> and <a href="https://aclanthology.org/2025.acl-long.1221.pdf" style="text-decoration: none"> Document-Level Event-Argument Data Augmentation for Challenging Role Types</a>!
+<font> Congratulations to Joey et al. for the two <a href="https://2025.aclweb.org/" style="text-decoration: none"> ACL 2025</a> papers in the main track: <a href="https://aclanthology.org/2025.acl-long.1226.pdf" style="text-decoration: none"> Follow-up Question Generation For Enhanced Patient-Provider Conversations</a> and <a href="https://aclanthology.org/2025.acl-long.1221.pdf" style="text-decoration: none"> Document-Level Event-Argument Data Augmentation for Challenging Role Types</a>.
 </font> <br/>
   
   <font color="brown"><i>23 September, 2024</i></font> <br/>
 <font> Our NIH R21 has been selected for funding (Total funding: $451K, Role: PI, Title: "Characterizing Information Needs and Peer Engagement Regarding
-Medication for Opioid Use Disorder on Social Media")! I am so thankful to my fantastic co-Is Dr. Sarah Lord, Dr. Jacob Borodobsky, and mentor Dr. Lisa Marsch, for their support. We will build human-centric NLP pipelines to analyze online discourse on recovery treatment and improve patient education and communication. Thank you, NIH!
+Medication for Opioid Use Disorder on Social Media"). I am thankful to my co-Is Dr. Sarah Lord, Dr. Jacob Borodobsky, and mentor Dr. Lisa Marsch, for their support. We will build human-centric NLP pipelines to analyze online discourse on recovery treatment and improve patient education and communication. Thank you, NIH!
 </font> <br/>
 
 <font color="brown"><i>20 September, 2024</i></font> <br/>
-<font> Congratulations to Omar et al. for the <a href="https://2024.emnlp.org/" style="text-decoration: none"> EMNLP 2024</a> paper: <a href="https://omar-sharif03.github.io/DiscourseEE/" style="text-decoration: none"> Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments</a>!
+<font> Congratulations to Omar et al. for the <a href="https://2024.emnlp.org/" style="text-decoration: none"> EMNLP 2024</a> paper: <a href="https://omar-sharif03.github.io/DiscourseEE/" style="text-decoration: none"> Explicit, Implicit, and Scattered: Revisiting Event Extraction to Capture Complex Arguments</a>.
 </font> <br/>
 
 <font color="brown"><i>30 July, 2024</i></font> <br/>
@@ -57,11 +64,11 @@ Medication for Opioid Use Disorder on Social Media")! I am so thankful to my fan
 </font> <br/>
 
 <font color="brown"><i>4 June, 2024</i></font> <br/>
-<font> We successfully wrapped the <a href="https://sites.google.com/view/real-info-2024/overview" style="text-decoration: none">Reliable Evaluation of LLMs for Factual Information (REAL-Info)</a> workshop at <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>! Thanks to my wonderful co-organizers, students, and all our participants! Special thanks to Dr. Munmun De Choudhury for her amazing keynote!
+<font> We successfully wrapped the <a href="https://sites.google.com/view/real-info-2024/overview" style="text-decoration: none">Reliable Evaluation of LLMs for Factual Information (REAL-Info)</a> workshop at <a href="https://www.icwsm.org/2024/index.html/" style="text-decoration: none">ICWSM-2024</a>. Thanks to my wonderful co-organizers, students, and all our participants. Special thanks to Dr. Munmun De Choudhury for her amazing keynote!
 </font> <br/>
 
 <font color="brown"><i>16 May, 2024</i></font> <br/>
-<font> Congratulations to Omar et al. for the <a href="https://2024.aclweb.org/" style="text-decoration: none"> ACL 2024</a> paper: <a href="https://aclanthology.org/2024.acl-long.454/" style="text-decoration: none"> Deciphering Hate: Identifying Hateful Memes and Their Targets</a>!
+<font> Congratulations to Omar et al. for the <a href="https://2024.aclweb.org/" style="text-decoration: none"> ACL 2024</a> paper: <a href="https://aclanthology.org/2024.acl-long.454/" style="text-decoration: none"> Deciphering Hate: Identifying Hateful Memes and Their Targets</a>.
 </font> <br/>
 
 <font color="brown"><i>21 April, 2024</i></font> <br/>
@@ -69,7 +76,7 @@ Medication for Opioid Use Disorder on Social Media")! I am so thankful to my fan
 </font> <br/>
 
 <font color="brown"><i>8 March, 2024</i></font> <br/>
-<font> We have posted two new pre-prints on arXiv! (1) <a href="https://arxiv.org/abs/2403.03304" style="text-decoration: none">Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data</a> (2) <a href="https://arxiv.org/abs/2403.03336" style="text-decoration: none">Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse</a>. Check them out! 
+<font> We have posted two new pre-prints on arXiv! (1) <a href="https://arxiv.org/abs/2403.03304" style="text-decoration: none">Mad Libs Are All You Need: Augmenting Cross-Domain Document-Level Event Argument Data</a> (2) <a href="https://arxiv.org/abs/2403.03336" style="text-decoration: none">Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse</a>. 
 </font> <br/>
 
 <!--
@@ -97,11 +104,8 @@ Medication for Opioid Use Disorder on Social Media")! I am so thankful to my fan
 </font> <br/>
   
 <font color="brown"><i>06 October, 2023</i></font> <br/>
-<font> Two papers accepted at <a href="https://2023.emnlp.org/" style="text-decoration: none">EMNLP-2023</a>. Congratulations to Joey, Parker, and Omar! Papers and codes will be released soon. 
+<font> Two papers accepted at <a href="https://2023.emnlp.org/" style="text-decoration: none">EMNLP-2023</a>. Congratulations to Joey, Parker, and Omar!
 </font> <br/>
-
-<font color="brown"><i>21 August, 2023</i></font> <br/>
-<font> Congratulations to Joey for successfully passing his Research Presentation Exam (RPE).</font> <br/>
 
 <font color="brown"><i>15 July, 2023</i></font> <br/>
 <font> One <a href="https://arxiv.org/abs/2301.11508" style="text-decoration: none"><font>paper</font></a> accepted at <a href="https://www.icwsm.org/2023/index.html/call_for_submissions.html" style="text-decoration: none">ICWSM-2024</a>. Congratulations to Will, Omar, Madhu, and other authors!
