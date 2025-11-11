@@ -16,6 +16,7 @@ redirect_from:
 
 </p> 
 
+<img src="/images/overviewResearch.png" alt="Overview of my current and prior work, and how it informs my long-term vision.">
 
 ## <font> News and Announcements </font>
 <div style="height: 450px; overflow: auto;">
