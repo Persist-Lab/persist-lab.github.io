@@ -26,10 +26,15 @@ AI holds great promise for improving human communication and interaction. Howeve
 
 ## <font> News and Announcements </font>
 <div style="height: 450px; overflow: auto;">
-
-<font color="brown"><i>15 September, 2025</i></font> <br/>
-<font> Congratulations to Omar for the EMNLP 2025 findngs paper: <a href="https://arxiv.org/pdf/2502.16838" style="text-decoration: none"> REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</a>.
+  
+<font color="brown"><i> September, 2025</i></font> <br/>
+<font> 
+I am currently on sabbatical at <a href="https://www.cs.cmu.edu/" style="text-decoration: none" >Carnegie Mellon University </a>, where I am collaborating with researchers in the HCII and LTI.
 </font> <br/>
+
+<!-- <font color="brown"><i>15 September, 2025</i></font> <br/>
+<font> Congratulations to Omar for the EMNLP 2025 findngs paper: <a href="https://arxiv.org/pdf/2502.16838" style="text-decoration: none"> REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction</a>.
+</font> <br/> -->
 
   
 <font color="brown"><i>10 June, 2025</i></font> <br/>
