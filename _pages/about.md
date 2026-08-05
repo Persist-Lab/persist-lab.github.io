@@ -58,7 +58,7 @@ I had a wonderful time giving an invited talk at <a href="https://hcii.cmu.edu/s
 
 <font color="brown"><i> December, 2025</i></font> <br/>
 <font> 
-Delivered an invited talk at the <a href="https://synergy.dartmouth.edu/synergy-translational-learning-health-system-science-collaborative/"> SYNERGY Translational and Learning Health System Science Collaborative Seminar Series, Dartmouth Clinical and Translational Science Institute. </a>.
+Delivered an invited talk at the <a href="https://synergy.dartmouth.edu/synergy-translational-learning-health-system-science-collaborative/"> SYNERGY Translational and Learning Health System Science Collaborative Seminar Series, Dartmouth Clinical and Translational Science Institute</a>.
 </font> <br/>
 
 <font color="brown"><i> November, 2025</i></font> <br/>
