@@ -33,7 +33,7 @@ I enjoyed giving an invited talk at <b>Harvard’s Computational Health Informat
 </font> <br/>
 
 <font> 
-A very special lab milestone: Congratulations to <b>Dr. Joseph Gatto</b>, my first PhD student, on successfully completing his PhD! It has been a true pleasure—and a lot of fun—to work with Joey throughout his PhD journey. I am excited to see him begin his next chapter as a Machine Learning Scientist at Abridge.</font> <br/> <br/>
+A <b>very special lab milestone</b>b: Congratulations to <b>Dr. Joseph Gatto</b>, my first PhD student, on successfully completing his PhD! It has been a true pleasure—and a lot of fun—to work with Joey throughout his PhD journey. I am excited to see him begin his next chapter as a <b>Machine Learning Scientist at Abridge</b>.</font> <br/> <br/>
 
 <font color="brown"><i> May, 2026</i></font> <br/>
 <font> 
