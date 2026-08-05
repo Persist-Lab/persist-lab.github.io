@@ -38,12 +38,16 @@ A <b>very special lab milestone</b>: Congratulations to <b>Dr. Joseph Gatto</b>,
 
 <font> 
 Congratulations to Parker and team on the acceptance of two full papers at <b>ACL 2026 main</b>: <a href="https://aclanthology.org/2026.acl-long.1508.pdf"> <i> Measuring Distribution Shift and Its Effects on LLMs </i> </a> and <a href="https://aclanthology.org/2026.acl-long.1505.pdf"> <i> Evaluating LLM Alignment for Patient Message Response Drafting</i></a>!
-</font> <br/>
+</font> <br/><br/>
 
 <font color="brown"><i> April, 2026</i></font> <br/>
 <font> 
 Another sabbatical highlight: I was delighted to give an invited talk at <b>Columbia University’s NLP Seminar</b>, where I presented our work on <b>uncertainty-aware NLP for high-stakes communication.</b> It was fun to connect with the amazing group of students and colleagues!
 </font> <br/>
+
+<font> 
+Rohan Ray, one of our undergraduate research assistants, was awarded the Neukom scholarship and Sayles research grants. Congratulations, Rohan!</i></a>
+</font> <br/><br/>
 
 
 <font color="brown"><i> February, 2026</i></font> <br/>
@@ -86,8 +90,11 @@ I am currently on sabbatical at <a href="https://www.cs.cmu.edu/" style="text-de
 <font> Excited to receive the <a href="https://research.google/programs-and-events/research-scholar-program/recipients/">Google Research Scholar Award</a> to investigate how to safely situate LLMs for improved patient-provider communication.
 </font> <br/>
 
+<font> Our paper titled <a href="https://aclanthology.org/2025.acl-long.1221.pdf" style="text-decoration: none"> Document-Level Event-Argument Data Augmentation for Challenging Role Types</a> was nominated for a <b>Best Paper Award at ACL 2025</b>. Congratulations, Joey! So happy to see your hard work recognized!
+</font> <br/>
+
 <font color="brown"><i>May, 2025</i></font> <br/>
-<font> Congratulations to Joey et al. for the two <a href="https://2025.aclweb.org/" style="text-decoration: none"> ACL 2025</a> papers in the main track: <a href="https://aclanthology.org/2025.acl-long.1226.pdf" style="text-decoration: none"> Follow-up Question Generation For Enhanced Patient-Provider Conversations</a> and <a href="https://aclanthology.org/2025.acl-long.1221.pdf" style="text-decoration: none"> Document-Level Event-Argument Data Augmentation for Challenging Role Types</a>.
+<font> Congratulations to Joey et al. for the two <a href="https://2025.aclweb.org/" style="text-decoration: none"> ACL 2025</a> main papers: <a href="https://aclanthology.org/2025.acl-long.1226.pdf" style="text-decoration: none"> Follow-up Question Generation For Enhanced Patient-Provider Conversations</a> and <a href="https://aclanthology.org/2025.acl-long.1221.pdf" style="text-decoration: none"> Document-Level Event-Argument Data Augmentation for Challenging Role Types</a>.
 </font> <br/>
   
   <font color="brown"><i>September, 2024</i></font> <br/>
