@@ -29,17 +29,16 @@ AI holds great promise for improving human communication and interaction. Howeve
 
 <font color="brown"><i> June, 2026</i></font> <br/>
 <font> 
-I enjoyed giving an invited talk at <b>Harvard’s Computational Health Informatics Program (CHIP)</b>, where I discussed our work on <b>modeling expert disagreement across clinical NLP tasks</b>! I enjoyed connecting with the brilliant students and colleagues at CHIP.
+I had a wonderful time giving an invited talk at <b>Harvard’s Computational Health Informatics Program (CHIP)</b>, where I discussed our work on <i>modeling expert disagreement across clinical NLP tasks</i> and engaging with the brilliant minds at CHIP!
 </font> <br/>
 
 <font color="brown"><i> May, 2026</i></font> <br/>
+<font> 
+A <b>very special lab milestone</b>: Congratulations to <b>Dr. Joseph Gatto</b>, my first PhD student, on successfully completing his PhD! It has been a pleasure—and a lot of fun—to work with Joey throughout his PhD journey! I am excited to see him begin his next chapter as a <b>Machine Learning Scientist at Abridge</b>.</font> <br/> 
 
 <font> 
-A <b>very special lab milestone</b>: Congratulations to <b>Dr. Joseph Gatto</b>, my first PhD student, on successfully completing his PhD! It has been a true pleasure—and a lot of fun—to work with Joey throughout his PhD journey. I am excited to see him begin his next chapter as a <b>Machine Learning Scientist at Abridge</b>.</font> <br/> <br/>
-
-<font> 
-Congratulations to Parker and team on the acceptance of two full papers at <b>ACL 2026 main</b>: <a href="https://aclanthology.org/2026.acl-long.1508.pdf"> <i> Measuring Distribution Shift in User Prompts and Its Effects on LLM Performance </i> </a> and <a href="https://aclanthology.org/2026.acl-long.1505.pdf"> <i> How Much Would a Clinician Edit This Draft? Evaluating LLM Alignment for Patient Message Response Drafting</i></a>!
-</font> <br/><br/>
+Congratulations to Parker and team on the acceptance of two full papers at <b>ACL 2026 main</b>: <a href="https://aclanthology.org/2026.acl-long.1508.pdf"> <i> Measuring Distribution Shift and Its Effects on LLMs </i> </a> and <a href="https://aclanthology.org/2026.acl-long.1505.pdf"> <i> Evaluating LLM Alignment for Patient Message Response Drafting</i></a>!
+</font> <br/>
 
 <font color="brown"><i> April, 2026</i></font> <br/>
 <font> 
