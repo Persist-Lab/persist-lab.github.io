@@ -12,7 +12,7 @@ redirect_from:
 <p align="justify">
 
   
-AI holds great promise for improving human communication and interaction. However, data-driven solutions often overlook key human-centric challenges, such as ambiguous and fragmented information and implicit contexts. At the Pervasive Intelligent Systems Lab (PersistLab), we develop <b>socio-technical AI methods and systems</b> that enhance communication, decision-making, and well-being in high-stakes domains such as healthcare. Our research bridges <b>natural language processing, human–AI interaction, and computational health</b> to <b>develop</b> and <b>validate</b> novel methods, and systems that understand context, uncertainty, and human intent. We study how people communicate about health by collecting and analyzing multimodal data from patient–provider portals, online health communities, and social and behavioral sensing. We create domain informed representation of data by engaging with different stakeholders, including patients, clinicians, patient advocates, community engagement partners, and clinical and public health researchers. Supported by NIH, NSF, Google, CTSA, and institutional fundings, our work advances the science of <b>collaborative intelligence</b>, where humans and AI systems work together to improve <b>health communication, coordination,</b> and <b>outcomes</b>.
+AI holds great promise for improving human communication and interaction. However, data-driven solutions often overlook key human-centric challenges, such as ambiguous and fragmented information and implicit contexts. At the Pervasive Intelligent Systems Lab (PersistLab), we develop <b>socio-technical AI methods and systems</b> that enhance communication, decision-making, and well-being in high-stakes domains such as healthcare. Our research bridges <b>natural language processing, human–AI interaction, and computational healthcare</b> to <b>develop</b> and <b>validate</b> novel methods and systems that understand context, uncertainty, and human intent. We study how people communicate about health by collecting and analyzing multimodal data from patient–provider portals, online health communities, and social and behavioral sensing. We create domain-informed representations of data by engaging with different stakeholders, including patients, clinicians, patient advocates, community engagement partners, and clinical and public health researchers. Supported by NIH, NSF, Google, CTSA, and institutional funding, our work advances the science of <b>collaborative intelligence</b>, where humans and AI systems work together to improve <b>health communication, coordination,</b> and <b>outcomes</b>.
 
 </p> 
 
@@ -46,7 +46,7 @@ Another sabbatical highlight: I was delighted to give an invited talk at <b>Colu
 </font> <br/>
 
 <font> 
-Rohan Ray, one of our undergraduate research assistants, was awarded the Neukom scholarship and Sayles research grants. Congratulations, Rohan!</i></a>
+Rohan Ray, one of our undergraduate research assistants, was awarded the Neukom scholarship and Sayles research grant for his work on developing an NLP pipeline to extract emerging rumors in online health communities. Congratulations, Rohan!
 </font> <br/><br/>
 
 
