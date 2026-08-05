@@ -168,7 +168,7 @@ Medication for Opioid Use Disorder on Social Media"). We will build human-centri
 <font> Congratulations to Joey and Parker for presenting their papers (<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22140" style="text-decoration: none"><font>Paper-1</font></a>, <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22210" style="text-decoration: none"><font>Paper-2</font></a>) in <a href="https://www.icwsm.org/2023/index.html/index.html" style="text-decoration: none"><font>ICWSM-23</font></a>.
 </font> <br/>
 
-<font color="brown"><i>12 September, 2022</i></font> <br/>
+<font color="brown"><i>September, 2022</i></font> <br/>
 <font> I was delighted to nominate Omar for the Dartmouth Presidential Graduate Fellowship and thrilled to see him receive this award. Congratulations, Omar!
 </font> <br/> 
 
