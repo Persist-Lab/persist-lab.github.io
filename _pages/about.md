@@ -34,7 +34,7 @@ I had a wonderful time giving an invited talk at <b>Harvard’s Computational He
 
 <font color="brown"><i> May, 2026</i></font> <br/>
 <font> 
-A <b>very special lab milestone</b>: Congratulations to <b>Dr. Joseph Gatto</b>, my first PhD student, on successfully completing his PhD! It has been a pleasure—and a lot of fun—to work with Joey throughout his PhD journey! I am excited to see him begin his next chapter as a Machine Learning Scientist at <a href="https://www.abridge.com/">Abridge</a>.</font> <br/> 
+A <b>very special lab milestone</b>: Congratulations to <b>Dr. Joseph Gatto</b>, my first PhD student, on completing his PhD! All the best, Joey, on your next adventure as a Machine Learning Scientist at <a href="https://www.abridge.com/">Abridge</a>.</font> <br/> 
 
 <font> 
 Congratulations to Parker and team on the acceptance of two full papers at <b>ACL 2026 main</b>: <a href="https://aclanthology.org/2026.acl-long.1508.pdf"> <i> Measuring Distribution Shift and Its Effects on LLMs </i> </a> and <a href="https://aclanthology.org/2026.acl-long.1505.pdf"> <i> Evaluating LLM Alignment for Patient Message Response Drafting</i></a>!
@@ -175,9 +175,9 @@ Medication for Opioid Use Disorder on Social Media"). We will build human-centri
 <font> Congratulations to Joey and Parker for presenting their papers (<a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22140" style="text-decoration: none"><font>Paper-1</font></a>, <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/22210" style="text-decoration: none"><font>Paper-2</font></a>) in <a href="https://www.icwsm.org/2023/index.html/index.html" style="text-decoration: none"><font>ICWSM-23</font></a>.
 </font> <br/>
 
-<font color="brown"><i>September, 2022</i></font> <br/>
+<!-- <font color="brown"><i>September, 2022</i></font> <br/>
 <font> I was delighted to nominate Omar for the Dartmouth Presidential Graduate Fellowship and thrilled to see him receive this award. Congratulations, Omar!
-</font> <br/> 
+</font> <br/>  -->
 
 
 <!-- <font color="brown"><i>September, 2022</i></font> <br/>
